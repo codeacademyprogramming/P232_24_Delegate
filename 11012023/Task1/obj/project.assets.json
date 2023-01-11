@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\24. C#\\11012023\\Task1\\Task1.csproj",
+      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\24. C#\\P232_24_Delegate\\11012023\\Task1\\Task1.csproj",
       "projectName": "Task1",
-      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\24. C#\\11012023\\Task1\\Task1.csproj",
+      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\24. C#\\P232_24_Delegate\\11012023\\Task1\\Task1.csproj",
       "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\24. C#\\11012023\\Task1\\obj\\",
+      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P232\\Introduction\\24. C#\\P232_24_Delegate\\11012023\\Task1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",

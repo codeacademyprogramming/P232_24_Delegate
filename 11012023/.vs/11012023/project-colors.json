@@ -10,7 +10,22 @@
       "ProjectGuid": "223b9e1c-3528-4d6d-b6a4-6a3c4daf9865",
       "DisplayName": "Task1",
       "ColorIndex": 1
+    },
+    "dee25954-e3c7-4920-9c9c-b5ed71591653": {
+      "ProjectGuid": "dee25954-e3c7-4920-9c9c-b5ed71591653",
+      "DisplayName": "Lesson",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "68b5ca30-8789-4f63-b4ee-b810d9e8ff6c": {
+      "ProjectGuid": "68b5ca30-8789-4f63-b4ee-b810d9e8ff6c",
+      "DisplayName": "Reflection",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
